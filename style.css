@@ -30,7 +30,7 @@ body::before{
     content: '';
     position: fixed;
     inset: 0;
-    background-image: url('images/bg.jpg');
+    background-image: url('bg.jpg');
     background-size: cover;
     background-position: center center;
     filter: blur(8px) brightness(0.7) saturate(120%);
@@ -441,3 +441,4 @@ footer { margin-top: 3rem; color: rgba(0,0,0,0.45); }
 ::-webkit-scrollbar-thumb:hover {
     background: #764ba2;
 }
+
